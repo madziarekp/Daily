@@ -1,0 +1,12 @@
+C:\Users\magda\source\repos\Daily\Daily\obj\Debug\Daily.csprojResolveAssemblyReference.cache
+C:\Users\magda\source\repos\Daily\Daily\obj\Debug\Daily.csproj.CoreCompileInputs.cache
+C:\Users\magda\source\repos\Daily\Daily\bin\Debug\Daily.dll
+C:\Users\magda\source\repos\Daily\Daily\bin\Debug\Daily.pdb
+C:\Users\magda\source\repos\Daily\Daily\bin\Debug\nunit.framework.dll
+C:\Users\magda\source\repos\Daily\Daily\bin\Debug\WebDriver.dll
+C:\Users\magda\source\repos\Daily\Daily\bin\Debug\WebDriver.Support.dll
+C:\Users\magda\source\repos\Daily\Daily\bin\Debug\nunit.framework.xml
+C:\Users\magda\source\repos\Daily\Daily\bin\Debug\WebDriver.xml
+C:\Users\magda\source\repos\Daily\Daily\bin\Debug\WebDriver.Support.xml
+C:\Users\magda\source\repos\Daily\Daily\obj\Debug\Daily.dll
+C:\Users\magda\source\repos\Daily\Daily\obj\Debug\Daily.pdb
